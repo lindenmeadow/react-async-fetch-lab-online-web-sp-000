@@ -24,6 +24,6 @@ class App extends React.Component {
     }
 
 
-} 
+}
 
-export default App 
+export default App
